@@ -45,6 +45,9 @@ The UI is built with Tailwind CSS, so ensure your dev environment supports PostC
 
 Error handling is basic for demonstration purposes.
 
+# Deployed URL in vercel
+https://cms-deploy-6qxs.vercel.app/
+
 ## Setup Instructions
 
 ### 1. Clone the repository
